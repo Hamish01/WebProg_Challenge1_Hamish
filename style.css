@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+}
+.Topbox{
+    background-color: #263238;
+    color: white;
+    padding-left: 20px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    
+}
+.Midbox{
+    background-color: #1565c0;
+    color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Botbox{
+    background-color: #42a5f5;
+    color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.arial{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.impact{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.smallfont{
+    font-size: 11px;
+}
+.grey{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+    border: solid;
+    border-radius: 5px;
+    background-color: #607D8B;
+    border-color: #607D8B;
+    
+}
+p{
+    margin: 5px;
+}
+li{
+    margin: 5px;
+}
+span{
+    margin: 5px;
+    font-size: 11px;
+}
